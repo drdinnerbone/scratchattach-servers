@@ -20,4 +20,14 @@
 
 **9. Paste ` Ctrl + V ` *ALL* of the contents of the ` ~/main.py ` file in this repository to your new reposiory in the file named ` ~/main.py `**
 
-**10. Follow instructions in ` ~/main.py ` to make the scratchattach webserver operational**
+**10. Follow instructions in ` ~/main.py ` to make the scratchattach webserver work**
+
+**11. Click ` Commit changes... ` button**
+
+**12. Go to the repository settings in ` settings ` tab and, on the side tabs,  click ` pages `**
+
+**13. In ` source `, click the dropdown menu and select ` Github actions `**
+
+**14. Your webserver should be setup now (this may take a few minutes)**
+
+  **Go to ` https://github.com/TimMcCool/scratchattach/wiki/ ` for a list of commands to use with scratchattach**
